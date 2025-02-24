@@ -6,5 +6,11 @@
       "Resources": "https://github.com/SkyWalker0929/skywalker-library/raw/main/resourses/ConsoleDataSender.zip",
       "InitialScript": "java -jar CDS.jar"
     },
+{
+      "Name": "calc",
+      "Description": "java calculator with multi-operation",
+      "Resources": "https://github.com/OutOfMemory256/skywalker-library/raw/refs/heads/main/resourses/calculatorGUI.zip",
+      "InitialScript": "java -jar calculatorGUI.jar"
+    }
   ]
 }
